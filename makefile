@@ -9,3 +9,6 @@ tf_apply:
 
 tf_destroy:
 	cd infrastructure && terraform destroy -auto-approve
+
+yc_list_images:
+	yc compute image list --folder-id standard-images > images.txt
