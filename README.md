@@ -1,3 +1,9 @@
+# Homework
+1. Публичный S3 bucket -  "otus-bucket-b1gs316c43nt8isf6173"
+2. Скриншоты с артефактами находятся в infrastructure/screenshots/
+![hdfs](screenshots/hdfs.png)
+![hdfs](screenshots/yc.png)
+
 # OTUS. Настройка облачной инфраструктуры
 
 ## План занятия
